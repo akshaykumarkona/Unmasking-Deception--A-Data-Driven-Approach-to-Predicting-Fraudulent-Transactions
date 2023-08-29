@@ -1,0 +1,2 @@
+# Unmasking-Deception_A-Data-Driven-Approach-to-Predicting-Fraudulent-Transactions
+In the rapidly evolving landscape of financial transactions, ensuring the security and integrity of online payments has become a paramount concern. Our project, titled "Unmasking Deception: A Data-Driven Approach to Predicting Fraudulent Transactions," delves into the intricate world of fraud detection using advanced Machine Learning techniques.
