@@ -1,4 +1,4 @@
-# Unmasking-Deception_A-Data-Driven-Approach-to-Predicting-Fraudulent-Transactions
+# "Unmasking-Deception"-A-Data-Driven-Approach-to-Predicting-Fraudulent-Transactions
 In the rapidly evolving landscape of financial transactions, ensuring the security and integrity of online payments has become a paramount concern. Our project, titled "Unmasking Deception: A Data-Driven Approach to Predicting Fraudulent Transactions," delves into the intricate world of fraud detection using advanced Machine Learning techniques.
 This project centers around a comprehensive dataset comprising crucial columns such as 'step', 'type', 'amount', 'nameOrig', 'oldbalanceOrg', 'newbalanceOrig', 'nameDest', 'oldbalanceDest', 'newbalanceDest', 'isFraud', and 'isFlaggedFraud'. The dataset represents a snapshot of transactional activities, both legitimate and fraudulent, within a financial system.
 
